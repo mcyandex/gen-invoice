@@ -17,7 +17,7 @@ https://invoice-generator-react.netlify.app/
 ### Installation
 
 ```
-git clone https://github.com/leep718/invoice-generator
+git clone https://github.com/mcyandex/gen-invoice.git
 
 npm install
 
