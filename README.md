@@ -36,4 +36,3 @@ npm start / npm run build
 
 ### Meta
 
-Lee Parker
