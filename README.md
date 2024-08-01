@@ -36,3 +36,4 @@ npm start / npm run build
 
 ### Meta
 
+Miguel Cano
